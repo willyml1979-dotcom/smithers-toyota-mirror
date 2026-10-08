@@ -1,6 +1,6 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-09-26T11:59:08",
+  "generated_at": "2026-10-08T14:52:44",
   "vehicle_count": 35,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,9 @@
       "price": 21360.0,
       "price_currency": "CAD",
       "odometer_km": 180149,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2013ToyotaTacoma",
@@ -29,7 +31,9 @@
       "price": 28288.0,
       "price_currency": "CAD",
       "odometer_km": 256617,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2015JeepWrangler",
@@ -42,7 +46,9 @@
       "price": 17618.0,
       "price_currency": "CAD",
       "odometer_km": 210664,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2017SubaruForester",
@@ -55,7 +61,9 @@
       "price": 15735.0,
       "price_currency": "CAD",
       "odometer_km": 176764,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2018ToyotaTacoma",
@@ -68,7 +76,9 @@
       "price": 39172.0,
       "price_currency": "CAD",
       "odometer_km": 118748,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2019GMCSierra 1500",
@@ -81,7 +91,9 @@
       "price": 30008.0,
       "price_currency": "CAD",
       "odometer_km": 158952,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2021Toyota4Runner",
@@ -94,7 +106,9 @@
       "price": 57145.0,
       "price_currency": "CAD",
       "odometer_km": 79105,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2021ToyotaTacoma",
@@ -107,7 +121,9 @@
       "price": 49988.0,
       "price_currency": "CAD",
       "odometer_km": 52751,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022ToyotaRAV4",
@@ -120,7 +136,9 @@
       "price": 36776.0,
       "price_currency": "CAD",
       "odometer_km": 69614,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150",
@@ -133,7 +151,9 @@
       "price": 61959.0,
       "price_currency": "CAD",
       "odometer_km": 44039,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024JeepWrangler",
@@ -146,7 +166,9 @@
       "price": 49988.0,
       "price_currency": "CAD",
       "odometer_km": 9522,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaGrand Highlander",
@@ -160,7 +182,9 @@
       "price": 63198.0,
       "price_currency": "CAD",
       "odometer_km": 54907,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaRAV4Toyota Certified Used",
@@ -173,7 +197,9 @@
       "price": 34519.0,
       "price_currency": "CAD",
       "odometer_km": 91888,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaRAV4",
@@ -186,7 +212,9 @@
       "price": 36612.0,
       "price_currency": "CAD",
       "odometer_km": 54643,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025ToyotaCorolla CrossToyota Certified Used",
@@ -199,7 +227,9 @@
       "price": 31598.0,
       "price_currency": "CAD",
       "odometer_km": 39289,
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotabZ Woodland",
@@ -212,7 +242,9 @@
       "last_verified": "2026-09-26T04:47:13",
       "price": 70791.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaCrown",
@@ -225,7 +257,9 @@
       "last_verified": "2026-09-26T04:47:24",
       "price": 57828.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacoma",
@@ -238,7 +272,9 @@
       "last_verified": "2026-09-26T04:47:34",
       "price": 59489.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacoma",
@@ -251,7 +287,9 @@
       "last_verified": "2026-09-26T04:47:42",
       "price": 63232.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacomaOn Order",
@@ -264,7 +302,9 @@
       "last_verified": "2026-09-26T04:47:53",
       "price": 59489.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacomaOn Order",
@@ -277,7 +317,9 @@
       "last_verified": "2026-09-26T04:48:07",
       "price": 51596.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacomaOn Order",
@@ -290,7 +332,9 @@
       "last_verified": "2026-09-26T04:48:16",
       "price": 59489.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacoma",
@@ -303,7 +347,9 @@
       "last_verified": "2026-09-26T04:48:24",
       "price": 55276.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -316,7 +362,9 @@
       "last_verified": "2026-09-26T04:48:32",
       "price": 64536.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -329,7 +377,9 @@
       "last_verified": "2026-09-26T04:48:42",
       "price": 84244.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -342,7 +392,9 @@
       "last_verified": "2026-09-26T04:48:49",
       "price": 85786.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -355,7 +407,9 @@
       "last_verified": "2026-09-26T04:48:59",
       "price": 79586.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -368,7 +422,9 @@
       "last_verified": "2026-09-26T04:49:09",
       "price": 97026.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -381,7 +437,9 @@
       "last_verified": "2026-09-26T04:49:20",
       "price": 82891.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -394,7 +452,9 @@
       "last_verified": "2026-09-26T04:49:30",
       "price": 67601.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundra",
@@ -407,7 +467,9 @@
       "last_verified": "2026-09-26T04:49:41",
       "price": 67601.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -420,7 +482,9 @@
       "last_verified": "2026-09-26T04:49:53",
       "price": 67601.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -433,7 +497,9 @@
       "last_verified": "2026-09-26T04:50:05",
       "price": 75416.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -446,7 +512,9 @@
       "last_verified": "2026-09-26T04:50:16",
       "price": 79236.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTundraOn Order",
@@ -459,7 +527,9 @@
       "last_verified": "2026-09-26T04:50:27",
       "price": 82936.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     }
   ]
 }
