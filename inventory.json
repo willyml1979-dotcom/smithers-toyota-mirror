@@ -1,7 +1,7 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-10-25T14:07:27",
-  "vehicle_count": 41,
+  "generated_at": "2026-10-25T14:11:17",
+  "vehicle_count": 39,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -162,35 +162,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTacoma",
-      "vin": "3TYLB5JN6TT131504",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/4e0e7f208781.html",
+      "name": "2026ToyotaRAV4",
+      "vin": "2T36CRAV8TW115641",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2a4d472be129.html",
       "condition": "new",
-      "price": 59489.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTacomaOn Order",
-      "vin": "3TYLB5JN1TT133516",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/830d79c5e780.html",
-      "condition": "new",
-      "price": 59489.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTacomaOn Order",
-      "vin": "3TYLB5JN8TT133707",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/5dd8d66f36a3.html",
-      "condition": "new",
-      "price": 51596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTacomaOn Order",
-      "vin": "3TYLB5JN7TT133911",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/a27f4597f543.html",
-      "condition": "new",
-      "price": 59489.0,
+      "price": 55045.0,
       "price_currency": "CAD"
     },
     {
@@ -311,6 +287,14 @@
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/97d49f3d0e99.html",
       "condition": "new",
       "price": 67777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTundra",
+      "vin": "5TFWA5ECXTX063917",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/64e06611b5df.html",
+      "condition": "new",
+      "price": 78990.0,
       "price_currency": "CAD"
     },
     {
