@@ -1,18 +1,10 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-10-26T08:26:12",
-  "vehicle_count": 39,
+  "generated_at": "2026-11-17T09:57:43",
+  "vehicle_count": 38,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2012ToyotaHighlander",
-      "vin": "JTEDC3EHXC2004179",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/88b7f493b480.html",
-      "condition": "used",
-      "price": 21360.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2017NissanPathfinder",
       "vin": "5N1DR2MM6HC614721",
@@ -44,6 +36,12 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019ToyotaRAV4",
+      "vin": "2T3R1RFV2KC049194",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/aaafa71c296e.html",
+      "condition": "used"
+    },
+    {
       "name": "2019ToyotaTacoma",
       "vin": "5TFDZ5BN1KX045309",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/8c439406347c.html",
@@ -52,15 +50,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020ToyotaTacomaToyota Certified Used",
-      "vin": "5TFDZ5BN9LX049299",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/ccfe1674e752.html",
-      "condition": "used",
-      "price": 35667.0,
-      "price_currency": "CAD"
+      "name": "2020BMWX3",
+      "vin": "5UXTY5C0XL9D48839",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/bc08a28941c8.html",
+      "condition": "used"
     },
     {
-      "name": "2021ToyotaTacoma",
+      "name": "2021ToyotaTacomaToyota Certified Used",
       "vin": "5TFCZ5AN4MX258836",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/350d64e8f37f.html",
       "condition": "used",
@@ -68,11 +64,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022ToyotaRAV4",
-      "vin": "2T3BWRFV9NW134085",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/6be0f770bac9.html",
+      "name": "2022ToyotaTacoma",
+      "vin": "3TYDZ5BN3NT004937",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/b1573d7f2255.html",
       "condition": "used",
-      "price": 36776.0,
+      "price": 47335.0,
       "price_currency": "CAD"
     },
     {
@@ -116,17 +112,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024ToyotaRAV4",
-      "vin": "2T35WRFV5RW247969",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/f45086fc7d2b.html",
-      "condition": "used"
-    },
-    {
-      "name": "2025ToyotaCorolla CrossToyota Certified Used",
-      "vin": "7MUCAABG0SV126357",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/6f79987cd389.html",
+      "name": "2026ToyotaHighlander",
+      "vin": "5TDKBRCH6TS703306",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/d7c95a0115c4.html",
       "condition": "used",
-      "price": 30008.0,
+      "price": 64798.0,
       "price_currency": "CAD"
     },
     {
