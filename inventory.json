@@ -1,7 +1,7 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-11-17T09:57:43",
-  "vehicle_count": 38,
+  "generated_at": "2026-11-17T10:04:18",
+  "vehicle_count": 49,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -120,19 +120,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026Toyota4Runner",
-      "vin": "JTEVA5BR9T5171246",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/f946bcf196ca.html",
+      "name": "2026Toyota4RunnerOn Order",
+      "vin": "JTEVA5BR3T5184316",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/e331415eaec1.html",
       "condition": "new",
-      "price": 63321.0,
+      "price": 68111.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026Toyota4RunnerOn Order",
-      "vin": "JTEVA5BR8T5174672",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/93910f4cd230.html",
+      "vin": "JTEVA5BR6T5184472",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/fd4256eb7654.html",
       "condition": "new",
-      "price": 58169.0,
+      "price": 72293.0,
       "price_currency": "CAD"
     },
     {
@@ -144,19 +144,19 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026ToyotaCorolla CrossOn Order",
+      "vin": "7MUCAABG3TV217978",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/817e3addee86.html",
+      "condition": "new",
+      "price": 34295.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026ToyotaCrown",
       "vin": "JTDAAAAF2T3052100",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/d6473abdf424.html",
       "condition": "new",
       "price": 55998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaRAV4",
-      "vin": "2T36CRAV8TW115641",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2a4d472be129.html",
-      "condition": "new",
-      "price": 55045.0,
       "price_currency": "CAD"
     },
     {
@@ -169,10 +169,82 @@
     },
     {
       "name": "2026ToyotaTacomaOn Order",
-      "vin": "3TYLB5JN9TT158289",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/71aad9f83896.html",
+      "vin": "3TYLB5JN3TT161947",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/88620762fe00.html",
       "condition": "new",
-      "price": 63587.0,
+      "price": 54621.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN0TT161338",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/26fc558854c5.html",
+      "condition": "new",
+      "price": 51601.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN4TT163545",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2abde4175f95.html",
+      "condition": "new",
+      "price": 51601.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN2TT163592",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/0677226713fc.html",
+      "condition": "new",
+      "price": 59494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN4TT164968",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2814f1c28f6c.html",
+      "condition": "new",
+      "price": 59494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN6TT164860",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/ffe98f0644db.html",
+      "condition": "new",
+      "price": 54681.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN7TT166133",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/b1fed54830ec.html",
+      "condition": "new",
+      "price": 59494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN6TT166575",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/069d931e7853.html",
+      "condition": "new",
+      "price": 54621.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN2TT166279",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/90c220ad8da4.html",
+      "condition": "new",
+      "price": 59494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacomaOn Order",
+      "vin": "3TYLB5JN7TT165421",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/39836abde0b5.html",
+      "condition": "new",
+      "price": 55281.0,
       "price_currency": "CAD"
     },
     {
@@ -196,7 +268,7 @@
       "vin": "5TFVC5DB9TX148052",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/cbebe49f2dfe.html",
       "condition": "new",
-      "price": 97026.0,
+      "price": 99209.0,
       "price_currency": "CAD"
     },
     {
@@ -225,14 +297,6 @@
     },
     {
       "name": "2026ToyotaTundraOn Order",
-      "vin": "5TFWC5EC8TX013284",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/8dfbd4d5201a.html",
-      "condition": "new",
-      "price": 82936.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTundraOn Order",
       "vin": "5TFWC5EC1TX013319",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2bd11fba90cd.html",
       "condition": "new",
@@ -248,15 +312,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTundraOn Order",
-      "vin": "5TFWA5ECXTX063934",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/92648bc80192.html",
-      "condition": "new",
-      "price": 79611.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTundraOn Order",
+      "name": "2026ToyotaTundra",
       "vin": "5TFWA5EC8TX064032",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/aceeddba9fd3.html",
       "condition": "new",
@@ -264,7 +320,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTundraOn Order",
+      "name": "2026ToyotaTundra",
       "vin": "5TFWC5DBXTX153829",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2ba3d6421c3a.html",
       "condition": "new",
@@ -280,11 +336,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTundra",
-      "vin": "5TFWA5ECXTX063917",
-      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/64e06611b5df.html",
+      "name": "2026ToyotaTundraOn Order",
+      "vin": "5TFLA5DB7TX466734",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/5be898f65373.html",
       "condition": "new",
-      "price": 78990.0,
+      "price": 67777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTundraOn Order",
+      "vin": "5TFLA5DB3TX467508",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/84f1de412f55.html",
+      "condition": "new",
+      "price": 65422.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTundraOn Order",
+      "vin": "5TFLA5EC1TX064795",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/691967dbb8bd.html",
+      "condition": "new",
+      "price": 67616.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTundraOn Order",
+      "vin": "5TFLA5DB2TX466379",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/e69df727a720.html",
+      "condition": "new",
+      "price": 65422.0,
       "price_currency": "CAD"
     },
     {
@@ -296,12 +376,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027ToyotaLand CruiserOn Order",
+      "name": "2027ToyotaLand Cruiser",
       "vin": "JTEABFAJ6VK086706",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/88c79336c191.html",
       "condition": "new",
       "price": 89504.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027ToyotaTundraOn Order",
+      "vin": "5TFLA5EC9VX065311",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/ed9b1b6b5d94.html",
+      "condition": "new"
     }
   ]
 }
