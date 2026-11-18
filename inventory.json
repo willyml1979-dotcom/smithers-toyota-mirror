@@ -1,6 +1,6 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-11-18T01:03:11",
+  "generated_at": "2026-11-18T01:08:13",
   "vehicle_count": 49,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -296,7 +296,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTundraOn Order",
+      "name": "2026ToyotaTundra",
       "vin": "5TFWC5EC1TX013319",
       "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/new/2bd11fba90cd.html",
       "condition": "new",
