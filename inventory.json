@@ -1,7 +1,7 @@
 {
   "dealership": "Smithers Toyota",
-  "generated_at": "2026-11-18T10:21:39",
-  "vehicle_count": 49,
+  "generated_at": "2026-11-18T20:33:46",
+  "vehicle_count": 50,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -34,6 +34,12 @@
       "condition": "used",
       "price": 30008.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2019ToyotaC-HRToyota Certified Used",
+      "vin": "JTNKHMBX1K1035027",
+      "url": "https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/ff53476413bf.html",
+      "condition": "used"
     },
     {
       "name": "2019ToyotaRAV4",

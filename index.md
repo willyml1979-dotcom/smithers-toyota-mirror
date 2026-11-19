@@ -1,6 +1,6 @@
 # Smithers Toyota
 
- dealership in Smithers. AI-readable inventory mirror, about 49 vehicles.
+ dealership in Smithers. AI-readable inventory mirror, about 50 vehicles.
 
 - Official website: https://smitherstoyota.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/smithers-toyota-mirror/used/
